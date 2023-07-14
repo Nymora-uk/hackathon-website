@@ -29,7 +29,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #1e1f22;
   height: 50px;
 }
 li{
@@ -100,6 +100,10 @@ li a{
   display: table-cell;
   vertical-align: middle;
   text-align: center;
+}
+.btn-link{
+  text-decoration: none;
+  color: var(--color-text-primary)
 }
 .content-btn:hover{
   cursor: pointer;
