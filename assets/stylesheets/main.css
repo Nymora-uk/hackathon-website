@@ -71,12 +71,11 @@ li a{
   margin: 50px;
 }
 .main-text h1{
-  font-size: 3rem;
+  font-size: 4rem;
 }
 .main-text p{
   font-size: 1.5rem;
 }
-
 /* events main text */
 .events-main{
   opacity: 1;
@@ -228,9 +227,10 @@ a:visited {
 .contact-text h1{
   font-size: 3rem;
 }
-.main-text h1{
-  font-size: 3rem;
-}
 .main-text p{
   font-size: 1.5rem;
+}
+.text-highlight{
+  color: var(--color-text-highlight);
+  font-weight: bold;
 }
